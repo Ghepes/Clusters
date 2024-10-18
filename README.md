@@ -81,3 +81,17 @@ If you have a cluster of multiple such processors, the total computing power is 
 ### What is a Gigateraflop (GT)?
 - **1 GT (Gigateraflop)** is equal to **1 million TFLOPS**.
 - If you consider the performance scale of a large data center capable of reaching **1 GT**, it means they have a cluster of computers with a total power of **1 million TFLOPS** or **10^18** FLOPS.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
